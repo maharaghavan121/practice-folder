@@ -1,0 +1,1 @@
+this is just to check whether the terminal supports git or not
